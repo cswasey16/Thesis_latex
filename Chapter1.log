@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.26)  7 MAR 2016 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.26)  7 MAR 2016 17:58
 entering extended mode
-**Chapter1.tex
-(Chapter1.tex
+**C:/Users/Charlotte/Documents/Thesis/Thesis_latex/Chapter1.tex
+(C:/Users/Charlotte/Documents/Thesis/Thesis_latex/Chapter1.tex
 LaTeX2e <2015/01/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 69 languages loaded.
 (mitthesis.cls
@@ -53,17 +53,17 @@ Chapter 1.
 {C:/Users/Charlotte/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (Chapter1.aux) ) 
 Here is how much of TeX's memory you used:
- 323 strings out of 493673
- 3696 string characters out of 3141518
+ 324 strings out of 493673
+ 3843 string characters out of 3141518
  52839 words of memory out of 3000000
  3746 multiletter control sequences out of 15000+200000
  5158 words of font info for 19 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,4n,19p,117b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,4n,19p,170b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmr10.pfb>
-Output written on Chapter1.pdf (1 page, 22990 bytes).
+Output written on Chapter1.pdf (1 page, 25981 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
